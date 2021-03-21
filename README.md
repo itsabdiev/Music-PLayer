@@ -3,8 +3,7 @@
   
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://icon-library.com/images/java-icon-png/java-icon-png-2.jpg" /> 
-<br />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://icon-library.com/images/java-icon-png/java-icon-png-2.jpg" />
 * Controller.java
 ```java
 package sample;
