@@ -162,6 +162,14 @@ public class Main extends Application {
         primaryStage.setScene(new Scene(root, 406, 108));
         primaryStage.show();
         primaryStage.setTitle("◢◤");
+        System.out.println("Ala-Too International University (AMU) was established in 1996, which is located in the city of Bishkek, Kyrgyz Republic.\n" +
+                "      AMU is a legal entity that carries out its activities in accordance with the legislation of the Kyrgyz Republic.\n" +
+                "     The governing bodies of the university are:\n" +
+                "- the supreme body - the Founder;\n" +
+                "- executive body - Rector - Sanzharbek Erdolatov;\n" +
+                "- collegial body - the academic council of the university.\n" +
+                "      Our university consists of five blocks with classrooms and laboratories equipped with the Internet and modern interactive whiteboards. Our “Gorodok” is an educational conference center with a library, 3 stadiums, 1 tennis court, 1 gym, 6 computer labs, 1 internet club, 1 research center, 2 cantinas, 1 medical center.\n" +
+                "      The AMU has 4 faculties, 3 institutes and 16 departments.");
 
     }
 
