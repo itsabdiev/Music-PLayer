@@ -1,12 +1,14 @@
+---
 
+### Languages and Tools:
 [<img align="left" alt="Everest" width="36px" src="\https://image.flaticon.com/icons/png/512/3291/3291697.png" />][website]
 [<img align="left" alt="Intellij" width="36px" src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg" />][Intellij]
 [<img align="left" alt="Java " width="36px" src="https://icon-library.com/images/java-icon-png/java-icon-png-2.jpg" />][Java]
 [<img align="left" alt="Scene Builder " width="36px" src="https://gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo-300x300@2x.png" />][SceneBuilder]
-<details>
+
+  <details>
   <summary>:zap: Process</summary>
   
-< br />
  
 <!--START_SECTION:activity-->
 1. 🎨 Working on design of mp3 player
