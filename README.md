@@ -1,15 +1,4 @@
-<details>
-  <summary>:zap: Process</summary>
- 
-<!--START_SECTION:activity-->
-1. 🎨 Working on design of mp3 player
-2. 🧩 Creating structure of code
-3. 💾 Using mp3 libraries
-4. 🎧 End of work
-5. 😎 Enjoy
-<!--END_SECTION:activity-->
 
-</details>
 * Controller.java
 ```java
 package sample;
@@ -196,4 +185,15 @@ public class Main extends Application {
 </AnchorPane>
 
 ```
+<details>
+  <summary>:zap: Process</summary>
+ 
+<!--START_SECTION:activity-->
+1. 🎨 Working on design of mp3 player
+2. 🧩 Creating structure of code
+3. 💾 Using mp3 libraries
+4. 🎧 End of work
+5. 😎 Enjoy
+<!--END_SECTION:activity-->
 
+</details>
