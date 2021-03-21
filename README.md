@@ -1,6 +1,15 @@
+<details>
+  <summary>:zap: Process</summary>
+ 
+<!--START_SECTION:activity-->
+1. 🎨 Working on design of mp3 player
+2. 🧩 Creating structure of code
+3. 💾 Using mp3 libraries
+4. 🎧 End of work
+5. 😎 Enjoy
+<!--END_SECTION:activity-->
 
-
-<img align="left" alt="codeSTACKr.com" width="22px" src="https://friconix.com/png/fi-cnsuxx-java.png" />
+</details>
 * Controller.java
 ```java
 package sample;
