@@ -1,3 +1,4 @@
+![](images/Снимок экрана (2).png)
 ### Watch me on Youtube 📺:
 [<img align="left" alt="Youtube" width="36px" src="https://i.pinimg.com/originals/19/7b/36/197b365922d1ea3aa1a932ff9bbda4a6.png" />][youtube]  <br />
 ### Languages and Tools:
