@@ -225,5 +225,5 @@ public class Main extends Application {
 [Intellij]: https://www.jetbrains.com/
 [Java]: https://www.java.com/ru/
 [SceneBuilder]: https://gluonhq.com/products/scene-builder/
-[youtube]: https://www.youtube.com/
+[youtube]: https://www.youtube.com/watch?v=aSMC_n-VCz4
 
