@@ -1,8 +1,8 @@
 ### Watch me on Youtube 📺:
 [<img align="left" alt="Youtube" width="36px" src="https://i.pinimg.com/originals/19/7b/36/197b365922d1ea3aa1a932ff9bbda4a6.png" />][youtube]  <br />
 ### Languages and Tools:
-[<img align="left" alt="Everest" width="36px" src="https://photos.google.com/photo/AF1QipP8UAPfJmb0wQPx7KouLFglsIRtc1CCSFMq5ILx" />][website]
-[<img align="left" alt="Intellij" width="36px" src="=https://imgur.com/a/EuAP6zL" />][Intellij]
+[<img align="left" alt="Everest" width="36px" src="https://i.pinimg.com/originals/a0/16/3f/a0163ff61b94b13e0a422d6120a3698e.jpg " />][website]
+[<img align="left" alt="Intellij" width="36px" src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC.jpg " />][Intellij]
 [<img align="left" alt="Java " width="36px" src="https://icon-library.com/images/java-icon-png/java-icon-png-2.jpg" />][Java]
 [<img align="left" alt="Scene Builder " width="36px" src="https://gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo-300x300@2x.png" />][SceneBuilder]  <br /> 
 
